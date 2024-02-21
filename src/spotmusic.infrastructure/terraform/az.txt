@@ -1,0 +1,20 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "2a6d4c42-af0b-4b41-b433-4fb206df4e27",
+    "id": "724d94af-8fe6-464b-a77b-5742af50091f",
+    "isDefault": true,
+    "managedByTenants": [
+      {
+        "tenantId": "643095b9-4946-4376-9ba4-d245c52a35b2"
+      }
+    ],
+    "name": "Assinatura Principal",
+    "state": "Enabled",
+    "tenantId": "2a6d4c42-af0b-4b41-b433-4fb206df4e27",
+    "user": {
+      "name": "onmedeiros@outlook.com",
+      "type": "user"
+    }
+  }
+]
